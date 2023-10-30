@@ -128,7 +128,7 @@ const Hero = () => {
         <Line src="./line.png"/> 
           <Subtitle>What we do</Subtitle>
         </WhatWeDo>
-        <Desc>we enjoy creating delightful, human-centered digital experiences</Desc>
+        <Desc>we enjoy creating delightful, human-centered digital experiences.</Desc>
       <Button>Learn More</Button>
       </Left>
       <Right>
